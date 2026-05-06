@@ -1,16 +1,19 @@
-# calacolator
+# Pixel Calculator
 
-A new Flutter project.
+A Flutter-based calculator UI experiment with REST API integration to explore backend communication.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## What I built
 
-A few resources to get you started if this is your first Flutter project:
+- Pixel-style calculator UI in Flutter  
+- REST API integration for backend communication  
+- Basic full-stack interaction flow (frontend ↔ backend)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Status
+
+Backend is currently offline, so API features are not active.
+
+UI and core design remain fully functional.
