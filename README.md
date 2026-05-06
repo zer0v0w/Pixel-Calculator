@@ -10,6 +10,8 @@ A Flutter-based calculator UI experiment with REST API integration to explore ba
 - REST API integration for backend communication  
 - Basic full-stack interaction flow (frontend ↔ backend)
 
+  ![App Screenshot](20260506_165421.png)
+
 ---
 
 ## Status
